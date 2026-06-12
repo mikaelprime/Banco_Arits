@@ -1,0 +1,6 @@
+[2026-06-12 14:26:02] | USUARIO: Diego      | EVENTO: Intento fallido de login
+[2026-06-12 14:26:03] | USUARIO: Diego      | EVENTO: Intento fallido de login
+[2026-06-12 14:26:04] | USUARIO: Diego      | EVENTO: Intento fallido de login
+[2026-06-12 14:26:27] | USUARIO: Diego      | EVENTO: Intento fallido de login
+[2026-06-12 14:26:28] | USUARIO: Diego      | EVENTO: Intento fallido de login
+[2026-06-12 14:26:28] | USUARIO: Diego      | EVENTO: Cuenta bloqueada por exceso de intentos

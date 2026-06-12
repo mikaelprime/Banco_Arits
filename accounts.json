@@ -1,0 +1,38 @@
+{
+  "Diego": {
+    "user": "Diego",
+    "email": "diegoquezada235@gmail.com",
+    "pwd": "9ad7c3e241b0967aab023c780f806ee189623ba33eaf425646c9867fd82bce3f",
+    "pwd_salt": "f9b9b33c10d2ef4251f2815c16fab4b4",
+    "pin": "4bce9d85610337c8fa63cb0856472edf7d2b39192490fcda63b944d035d4e965",
+    "pin_salt": "0440df6e78edf22d864186920c38cbcc",
+    "balance": 310,
+    "history": [
+      {
+        "date": "2026-06-12 13:52:11",
+        "type": "Deposito inicial",
+        "amount": 300,
+        "balance": 300
+      },
+      {
+        "date": "2026-06-12 13:52:59",
+        "type": "Depósito",
+        "amount": 100,
+        "balance": 400
+      },
+      {
+        "date": "2026-06-12 13:53:33",
+        "type": "Retiro",
+        "amount": -90,
+        "balance": 310
+      }
+    ],
+    "bloqueado": true,
+    "intentos_fallidos": 5,
+    "fecha_intentos": "2026-06-12",
+    "ultimo_acceso": "2026-06-12 13:52:36",
+    "retiro_hoy": 90,
+    "transferencia_hoy": 0,
+    "fecha_limite": "2026-06-12"
+  }
+}
